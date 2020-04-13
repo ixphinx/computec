@@ -5,8 +5,13 @@ const Data = new Schema({
     
    artimg: String,
    arttext: String,
-   artcat: String,
-   categorias: String
+   articulo: String,
+   categorias: String,
+   msgnombre: String,
+   msgmail: String,
+   msgcel: String,
+   msgtext: String
+
 
 });
 
